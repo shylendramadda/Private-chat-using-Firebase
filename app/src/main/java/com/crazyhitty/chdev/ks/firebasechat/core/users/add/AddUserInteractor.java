@@ -1,5 +1,4 @@
 package com.crazyhitty.chdev.ks.firebasechat.core.users.add;
-
 import android.content.Context;
 import android.support.annotation.NonNull;
 
